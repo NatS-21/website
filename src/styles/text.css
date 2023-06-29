@@ -1,0 +1,62 @@
+.l-space-2 {
+    letter-spacing: 2px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.font-raleway {
+    font-family: Raleway, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Raleway, sans-serif;
+}
+
+h3 {
+    font-weight: normal;
+}
+
+p {
+    font-family: Raleway, sans-serif;
+    color: gray;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-black {
+    color: black;
+}
+
+label {
+    font-family: Raleway, sans-serif;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.u-2 {
+    border-bottom: 2px black solid;
+}
+
+
+.small-text {
+    font-size: 24px;
+    color: white;
+    margin-top: 20px;
+}
+
+.big-text {
+    font-size: 72px;
+    color: white;
+    margin-top: 20px;
+}
+
+.btn-small {
+    font-size: 12px;
+    color: white;
+}

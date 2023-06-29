@@ -1,0 +1,234 @@
+body {
+    overflow-x: hidden;
+}
+
+.m-0 {
+    margin: 0;
+}
+
+.p-0 {
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    padding: 30px;
+}
+
+.center {
+    justify-content: center;
+}
+
+.left {
+    justify-content: left;
+}
+
+.right {
+    justify-content: right;
+}
+
+.a-c {
+    align-items: center;
+}
+
+.a-l {
+    align-items: flex-start;
+}
+
+.a-r {
+    align-items: flex-end;
+}
+
+.w-half {
+    width: 50%;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.accent {
+    background-color: rgba(123, 219, 150, 1);
+}
+
+.accent-tr {
+    background-color: rgba(123, 219, 150, 0.8);
+}
+
+.accent-dark {
+    background-color: rgba(63, 109, 80, 1);
+}
+
+.accent-dark-tr {
+    background-color: rgba(63, 109, 80, 0.8);
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.c-b {
+    width: 200px;
+    height: 200px;
+}
+
+.c-m {
+    width: 100px;
+    height: 100px;
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 768px) {
+    .c-b {
+        width: 150px;
+        height: 150px;
+    }
+
+    .c-m {
+        width: 75px;
+        height: 75px;
+    }
+
+    .small-text {
+        font-size: 18px;
+        margin-top: 16px;
+    }
+
+    .big-text {
+        font-size: 52px;
+        margin-top: 16px;
+    }
+}
+
+.bg-dark {
+    background-color: #555;
+}
+
+.bg-gray {
+    background-color: #eee;
+}
+
+.bg-white {
+    background-color: #fff;
+}
+
+.btn {
+    font-family: Raleway, sans-serif;
+    display: inline-block;
+    padding: 12px 32px;
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+.link {
+    font-family: Raleway, sans-serif;
+    font-weight: bold;
+    display: inline-block;
+    padding: 12px 32px;
+    color: white;
+    text-decoration: none;
+}
+
+.row {
+    display: flex;
+}
+
+.col {
+    flex: 1;
+}
+
+.col-2 {
+    flex: 2;
+}
+
+.col-3 {
+    flex: 3;
+}
+
+.col-5 {
+    flex: 5;
+}
+
+.p-50 {
+    padding: 50px;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.p-20 {
+    padding: 20px;
+}
+
+.p-40 {
+    padding: 40px;
+}
+
+.p-h-100 {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.p-h-200 {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.corner-radius {
+    border-radius: 20px;
+}
+
+.m-r-10 {
+    margin-right: 10px;
+}
+
+.m-l-40 {
+    margin-left: 10%;
+}
+
+.p-l-40 {
+    padding-left: 40px;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.relative {
+    position: relative;
+    width: 300px;
+    height: 200px;
+    overflow: visible;
+}
+
+.repos {
+    position: relative;
+    top: 40px;
+    left: 300px;
+}
+
+.repos-1 {
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.h-300 {
+    height: 300px;
+}
+
+.h-400 {
+    height: 400px;
+}
+
+.h-f {
+    height: 100%;
+}
+
+.border-accent {
+    border: 3px rgba(123, 219, 150, 1) solid;
+}

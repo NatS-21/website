@@ -1,0 +1,82 @@
+.title-image {
+    background: url('../images/forest.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+}
+
+.image-1 {
+    width: 80%;
+    height: 220px;
+    object-fit: cover;
+}
+
+.image-2 {
+    width: 80%;
+    height: 220px;
+    object-fit: cover;
+}
+
+.image-3 {
+    background: url('../images/forest3.jpeg') no-repeat center center;
+    width: 80%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.image-4 {
+    background: url('../images/forest6.jpg') no-repeat center center;
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+}
+
+.image-5 {
+    background: url('../images/forest8.jpeg') no-repeat center center;
+    width: 100%;
+    height: 70%;
+    object-fit: cover;
+}
+
+.image-6 {
+    background: url('../images/forest1.jpeg') no-repeat center center;
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.image-7 {
+    background: url('../images/forest11.jpeg') no-repeat center center;
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.image-8 {
+    background: url('../images/forest9.jpeg') no-repeat center center;
+    object-fit: cover;
+}
+
+.image-9 {
+    background: url('../images/forest5.jpeg') no-repeat center center fixed;
+    width: 100%;
+    height: 50vh;
+    object-fit: cover;
+}
+
+.image-10 {
+    background: url('../images/forest12.jpeg') no-repeat center center;
+    width: 100%;
+    height: 50vh;
+    object-fit: cover;
+}
+
+.image-11 {
+    background: url('../images/forest10.jpeg') no-repeat center center;
+    object-fit: contain;
+}
+
+.icon {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+}
